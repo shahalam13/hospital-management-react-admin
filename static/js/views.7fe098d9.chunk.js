@@ -1,0 +1,1 @@
+(this["webpackJsonpdulton-react"]=this["webpackJsonpdulton-react"]||[]).push([[96],{1214:function(t,e,n){"use strict";n.r(e);var a=n(6),c=n.n(a),r=n(133);e.default=function(){return c.a.createElement(r.a,{to:"/app"})}}}]);
