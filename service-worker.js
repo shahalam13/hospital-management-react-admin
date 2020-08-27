@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hospital-management-react-admin/precache-manifest.5e9d030a028660d9f8cbafd4b5bbccfc.js"
+  "/hospital-management-react-admin/precache-manifest.4307be5a59035e68de676a1232fc90b7.js"
 );
 
 self.addEventListener('message', (event) => {

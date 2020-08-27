@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "57e30a97b0de18e6296ff1f9ef292295",
+    "revision": "db17b31dbe6e8371a21dcfd0f32fa67a",
     "url": "/hospital-management-react-admin/index.html"
   },
   {
@@ -372,8 +372,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hospital-management-react-admin/static/js/9.b7097cef.chunk.js"
   },
   {
-    "revision": "54ec250cbac711f86f2b",
-    "url": "/hospital-management-react-admin/static/js/App.dbbf424d.chunk.js"
+    "revision": "e536593b2354b1cef14a",
+    "url": "/hospital-management-react-admin/static/js/App.ff40ac20.chunk.js"
   },
   {
     "revision": "6a961d9a5069f7f9f711",
@@ -652,8 +652,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hospital-management-react-admin/static/js/profile-social.fbf7a1b6.chunk.js"
   },
   {
-    "revision": "1e16b187e30bcb2f72d2",
-    "url": "/hospital-management-react-admin/static/js/runtime-main.d2329401.js"
+    "revision": "6966236aacfca2fc0138",
+    "url": "/hospital-management-react-admin/static/js/runtime-main.8ae45f4a.js"
   },
   {
     "revision": "bfac0d51df8b6d46109e",
@@ -688,8 +688,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hospital-management-react-admin/static/js/user-reset-password.280aca61.chunk.js"
   },
   {
-    "revision": "f23de64fcc6336bf2206",
-    "url": "/hospital-management-react-admin/static/js/views-app.87ae7f10.chunk.js"
+    "revision": "f95c5d3abcc84d2bdbc4",
+    "url": "/hospital-management-react-admin/static/js/views-app.fb8dc2a7.chunk.js"
   },
   {
     "revision": "f23b9a31e7bb9fa9e460",
