@@ -74,13 +74,15 @@ class App extends React.Component {
             <NotificationContainer />
             {isMultiColorActive && <ColorSwitcher />}
             <Suspense fallback={<div className="loading" />}>
-              <Router basename={'/SMS-react-admin/'}>
+              <Router basename={'/hospital-management-react-admin'}>
                 <Switch>
+                  <Redirect exact from="/" to="app/dashboard" />
                   <AuthRoute
                     path="/app"
                     authUser={loginUser}
                     component={ViewApp}
                   />
+
                   <Route
                     path="/user"
                     render={(props) => <ViewUser {...props} />}
@@ -90,11 +92,11 @@ class App extends React.Component {
                     exact
                     render={(props) => <ViewError {...props} />}
                   />
-                  <Route
+                  {/* <Route
                     path="/"
                     exact
                     render={(props) => <ViewMain {...props} />}
-                  />
+                  /> */}
                   <Redirect to="/error" />
                 </Switch>
               </Router>
